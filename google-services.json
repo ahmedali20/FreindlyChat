@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417769888538",
+    "firebase_url": "https://freindlychat20.firebaseio.com",
+    "project_id": "freindlychat20",
+    "storage_bucket": "freindlychat20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417769888538:android:1c137ea5c281ad72",
+        "android_client_info": {
+          "package_name": "com.example.freindlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417769888538-ehhtnvfjv5sfinm1dvhnujtobjs0aelh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2F1BBVvQoK-7hfed8lywoB_-P51v_pe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417769888538-ehhtnvfjv5sfinm1dvhnujtobjs0aelh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
